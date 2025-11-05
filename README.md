@@ -2,6 +2,18 @@
 
 A command-line C++ application for live-data indicator, backtesting and analyzing stock trading strategies using technical indicators. The simulator implements Simple Moving Average (SMA) and Moving Average Convergence Divergence (MACD) strategies to generate trading signals and evaluate historical performance.
 
+---
+Video demo: https://youtu.be/gRzn_Zq0LOI
+--
+
+## Demo
+
+![Sample Run](./assets/trading_sim_demo.gif)
+
+![Sample Output](./assets/trading_sim_sample_run.png)
+
+![Testing Output](./assets/trading_sim_testing.png)
+
 ## Features
 
 - **Multiple Trading Strategies**
